@@ -1,0 +1,23 @@
+{
+  "name": "c-store-api",
+  "version": "1.0.0",
+  "description": "my store api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abuiko/c-store-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abuiko/c-store-api/issues"
+  },
+  "homepage": "https://github.com/abuiko/c-store-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
